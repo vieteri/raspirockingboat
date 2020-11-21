@@ -1,0 +1,4 @@
+this is a dummy txt file to know that the install.sh works
+Onni on aika kova tyyppi oikeesti
+Miks tää menee näin
+Kyl tää ehkä on ihan fiksu
