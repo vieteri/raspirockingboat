@@ -1,3 +1,3 @@
 # raspirockingboat
 
-Script reads the sensor data and uploads it to github
+A Python script reads the sensor data and uploads it to github
